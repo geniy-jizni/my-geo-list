@@ -1,0 +1,149 @@
+// Whitelist-роутинг (2026-09-07): в туннель только заблокированное, всё остальное напрямую.
+// Порядок: block → kinopub → CDN direct → proxy-списки → всё остальное direct.
+// Тег "socks-test" добавлен в правила для проверки через 127.0.0.1:10808 на самом роутере.
+{
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      // Страховка от IPv6 (ULA-рулетка, см. заметку §9)
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "ip": ["::/0"],
+        "outboundTag": "block",
+        "type": "field"
+      },
+      // QUIC (UDP 443) режем: без SNI он не роутится по домену и уходил бы мимо туннеля; приложения откатываются на TCP
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "network": "udp",
+        "port": "443",
+        "outboundTag": "block",
+        "type": "field"
+      },
+      // Кинопаб: голые домены (без поддомена) припаркованы на RU-адресах Qrator —
+      // через туннель их убивает RU-guard сервера. Только напрямую, выше доменного правила.
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "domain": ["full:soi.lat", "full:srvkp.net"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      // Кинопаб: API/плеер — только через туннель (доменное правило)
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "domain": [
+          "domain:msxplayer.ru",
+          "domain:srvkp.net",
+          "domain:soi.lat",
+          "domain:cdnservices.link",
+          "domain:smarttvcdn.space"
+        ],
+        "outboundTag": "vless-reality",
+        "type": "field"
+      },
+      // Кинопаб: RU-кластер API без SNI — тоже через туннель (на сервере есть исключение)
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "ip": [
+          "158.255.4.0/24",
+          "87.120.93.0/24"
+        ],
+        "outboundTag": "vless-reality",
+        "type": "field"
+      },
+      // Кинопаб: видео-CDN — только напрямую (через VPS душится анти-датацентровой защитой)
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "domain": ["domain:cdntogo.net", "domain:okko.tv"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "ip": [
+          "51.15.20.0/24",
+          "31.40.217.0/24",
+          "31.40.218.0/24",
+          "93.189.57.0/24",
+          "213.183.46.0/24",
+          "89.34.238.0/24"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      // RU-хостинг, ошибочно попавший в списки zkeen/re:filter: через туннель он упирается в RU-guard сервера → direct.
+      // Доменное правило — для случаев, когда SNI есть; ip-правило ниже ловит остальное (пара правил, см. заметку §16).
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "domain": [
+          "domain:habr.com",
+          "domain:habrastorage.org",
+          "domain:livejournal.com",
+          "domain:amediateka.tech",
+          "domain:id409.com",
+          "domain:awnr.site",
+          "domain:bi.zone"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      // Системная страховка: ЛЮБОЙ российский адрес — только напрямую. Туннель RU→NL→RU бесполезен
+      // (сервер его всё равно блокирует) и палит подсеть. Стоит ниже кинопаба, выше whitelist-правил.
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "ip": ["geoip:ru", "geoip:private"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      // WHITELIST → туннель: крупные заблокированные сервисы (v2fly) + ежедневный список zkeen (заблокированное в РФ)
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "domain": [
+          "ext:geosite_v2fly.dat:youtube",
+          "ext:geosite_v2fly.dat:meta",
+          "ext:geosite_v2fly.dat:instagram",
+          "ext:geosite_v2fly.dat:facebook",
+          "ext:geosite_v2fly.dat:whatsapp",
+          "ext:geosite_v2fly.dat:telegram",
+          "ext:geosite_v2fly.dat:twitter",
+          "ext:geosite_v2fly.dat:discord",
+          "ext:geosite_v2fly.dat:openai",
+          "ext:zkeen.dat:domains",
+          "ext:zkeen.dat:other",
+          "ext:zkeen.dat:politic",
+          "ext:zkeen.dat:youtube"
+        ],
+        "outboundTag": "vless-reality",
+        "type": "field"
+      },
+      // WHITELIST → туннель по IP: соединения без SNI к Telegram/YouTube/Meta/Discord
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "ip": [
+          "ext:zkeenip.dat:telegram",
+          "ext:zkeenip.dat:youtube",
+          "ext:zkeenip.dat:meta",
+          "ext:zkeenip.dat:discord",
+          "91.108.4.0/22",
+          "91.108.8.0/22",
+          "91.108.12.0/22",
+          "91.108.16.0/22",
+          "91.108.20.0/22",
+          "91.108.56.0/22",
+          "91.105.192.0/23",
+          "149.154.160.0/20",
+          "185.76.151.0/24"
+        ],
+        "outboundTag": "vless-reality",
+        "type": "field"
+      },
+      // Всё остальное — напрямую (включая .ru, банки, Госуслуги, любые зарубежные сайты не из списка)
+      {
+        "inboundTag": ["redirect", "tproxy", "socks-test"],
+        "network": "tcp,udp",
+        "outboundTag": "direct",
+        "type": "field"
+      }
+    ]
+  }
+}
