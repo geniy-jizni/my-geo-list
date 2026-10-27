@@ -380,7 +380,7 @@ webkit.orgwebkitgtk.orgwebobjects.co.ukwebobjects.comweb
 cn!www.support.apple.com
 cnxp.apple.com
 cn
-ÌÂ
+ºÈ
 CATEGORY-RU1917live.red
 24h.tv2gis.ae2gis.am2gis.az2gis.by2gis.com2gis.com.cy2gis.cz2gis.ge2gis.kg2gis.kz	2gis.tech2gis.tj2gis.uz	3ebra.net4epenaxa.com5post.marketa.mts.ru
 adsaccesspoint.uz
@@ -405,12 +405,17 @@ adv.vk.com
 adsamt-insurance.coman.yandex.ru
 adsanalytics.vk.com
 adsantiphishing.nl
-aodahl.com"appmetrica.yandex.com
-ads"appmetrica.yandex.net
-ads!appmetrica.yandex.ru
-ads!appmetrica.yango.com
-adsapptracer.ru
-adsapptrackpets.com
+aodahl.com1appmetrica.yandex.com
+ads
+	telemetry1appmetrica.yandex.net
+ads
+	telemetry0appmetrica.yandex.ru
+ads
+	telemetry0appmetrica.yango.com
+ads
+	telemetry(apptracer.ru
+ads
+	telemetryapptrackpets.com
 armgs.teamartel.watcharteldoc.comarteldoc.tvasiangooglenetwork.com	at.uaatomyze.techattachmy.com	autoru.meaviasales.com	avito.comavito.st
 avito.tech
 avs.iobaltnews.combaltnews.ltbank131.combaranky.combargipsy.com
@@ -419,13 +424,15 @@ beget.techbegetcdn.cloudbest2pay.netbitrix.infobitrix24.
 bizmrg.combk6bba-resources.combook1917.live	boosty.tobotmechanic.iobps-sberbank.bybs.yandex.ru
 adscabconnect.orgcallbackkiller.comcarrot-mail.iocarrotquest-mail.iocarrotquest.appcarrotquest.iocarrottrack.appcbkiller.comcdek.shopping
 cdn-vk.netcdnvideohub.comcert-gib.comchat2desk.comchipcore.comchizhik.club	cian.site	ciciq.netclck.yandex.ru
-ads$clickstream.sberbank.ru
-ads
+ads3clickstream.sberbank.ru
+ads
+	telemetry
 cloudru.cnclstorage.net	cm.expertcodeseason.by
 comss.club
 comss.infocomss.me	comss.net
-comss.news	comss.onecomss.online	comss.orgcopymonkey.appcorp.expresscounter.yandex.ru
-adscups.onlinecxhub.ru
+comss.news	comss.onecomss.online	comss.orgcopymonkey.appcorp.express-counter.yandex.ru
+ads
+	telemetrycups.onlinecxhub.ru
 adscybercrimecon.comdahlmessenger.com
 dashly.appdashly.help	dashly.io	dashly.medashlytrack.appdatacloudmy.comdbo-dengi.online	de-rt.com	de-rt.orgde-rtnews.comde-rtnews.netdert.online	dert.site	dert.tech
 dev-my.comdev-my.games
@@ -468,17 +475,23 @@ ixbt.videojinrieluosi.cn	jivo.chatjivochat.co.injivochat.
 cnkaspersky.com.hkkaspersky.com.plkaspersky.com.trkaspersky.com.twkaspersky.com.vnkaspersky.czkaspersky.dekaspersky.dkkaspersky.dzkaspersky.eskaspersky.fikaspersky.frkaspersky.grkaspersky.itkaspersky.kzkaspersky.makaspersky.mykaspersky.nlkaspersky.ptkaspersky.rokaspersky.rskaspersky.sekeyboardmen.comkhangar.netkinescopecdn.netkinorium.comknightspeak.comkontur-inc.comkontur.hostkoronapay.comkoshelek.app
 ktalk.host
 ktech.team	lenta.com
-lenta.techlexgarant.comlog.dzen.ru
-ads
+lenta.techlexgarant.com'log.dzen.ru
+ads
+	telemetry
 lovina.app
-magnit.commail-carrotquest.iomailicq.orgmaritimebank.commc.yandex.ru
-adsmcc250.pub.3gppnetwork.org
+magnit.commail-carrotquest.iomailicq.orgmaritimebank.com(mc.yandex.ru
+ads
+	telemetrymcc250.pub.3gppnetwork.org
 mcs.stmedrocket.me	medsi.com	medsi.promegafon.commegamarket.tech
-mel.fmmemealerts.commeteofor.commeteofor.st	meteum.aimetrics.viqeo.tv
-adsmetrika.yandex.com
-adsmetrika.yandex.net
-adsmetrika.yandex.ru
-ads
+mel.fmmemealerts.commeteofor.commeteofor.st	meteum.ai,metrics.viqeo.tv
+ads
+	telemetry.metrika.yandex.com
+ads
+	telemetry.metrika.yandex.net
+ads
+	telemetry-metrika.yandex.ru
+ads
+	telemetry
 mfa.centermindbox.cloudmindbox.groupmindbox.site
 mindbox.somirabilis.commirandaicq.commobile-bb.commobile-icq.commobileicq.commoex.commore.tv
 moscowmosmetro.tech
@@ -554,21 +567,25 @@ vkcloud.kz
 vkcs.cloudvkgo.app
 vklive.appvkmessenger.appvkmessenger.comvkontakte.com	vkpay.app	vkpay.comvkpay.iovkplay.live
 vkuser.netvkuseraudio.comvkuseraudio.netvkuserlive.comvkuserlive.netvkuservideo.comvkuservideo.netvkworkspace.kzvmailru.netvolganet.netvscale.blog	vscale.iovtb-direct.comvtb.comvtbglobalperspectives.comwarehouse.domainswatchingthehawks.com	wb.am	wb.kg	wb.kzwbautomation.techwbcontent.net
-wbr.bywbstatic.net	wbwh.techwebvisor.com
-adswebvisor.org
-adswhitesaas.comwhoosh.bike	wibes.comwildberries.amwildberries.bywildberries.co.ilwildberries.eswildberries.euwildberries.gewildberries.kgwildberries.kzwildberries.ltwildberries.tjwildberries.tmwildberries.uzwink.amworldcuprussia.com	x5.ai
+wbr.bywbstatic.net	wbwh.tech(webvisor.com
+ads
+	telemetry(webvisor.org
+ads
+	telemetrywhitesaas.comwhoosh.bike	wibes.comwildberries.amwildberries.bywildberries.co.ilwildberries.eswildberries.euwildberries.gewildberries.kgwildberries.kzwildberries.ltwildberries.tjwildberries.tmwildberries.uzwink.amworldcuprussia.com	x5.ai
 x5.com
 x5.digitalx5.groupx5.mediax5.teamx5.techx5static.netxlnk.msxn-----6kc7adj0c9esa.com xn----7sbaba0dc6cdn7cxcj.com#xn----7sbabae2a0bnvtsfr4loc.com"xn----7sbbab6bregnh7b8if5b.comxn----7sbbamm1bv2bh7i.comxn----8sbaroledu6bi7j.comxn----8sbeoy5bze.comxn--80adxhksxn--80aqcf7a6do.comxn--80asehdb
 xn--80aswgxn--90ab.comxn--90aifd0az.shopxn--b1aechhj6bof8g5a.site	xn--c1avgxn--d1abkf4ap.funxn--d1acj3bxn--e1adjldbbpv.xn--90aisxn--h1ao.site	xn--p1acfxn--p1ai	ya.ccyadi.sk	yads.tech
 ads
 yandexyandex-ad.cn
-cnyandex-bank.netyandex-metrica.ru
-adsyandex-team.comyandex.aeroyandex.asia	yandex.az	yandex.byyandex.cloudyandex.co.il
+cnyandex-bank.net-yandex-metrica.ru
+ads
+	telemetryyandex-team.comyandex.aeroyandex.asia	yandex.az	yandex.byyandex.cloudyandex.co.il
 yandex.comyandex.com.amyandex.com.geyandex.com.tryandex.com.ua	yandex.de	yandex.ee	yandex.eu	yandex.fi	yandex.fr	yandex.ityandex.jobs	yandex.kg	yandex.kz	yandex.lt	yandex.lvyandex.market	yandex.mdyandex.mobi
 yandex.net
 yandex.org	yandex.pl
-yandex.pro	yandex.st	yandex.sxyandex.taxi	yandex.tj	yandex.tm	yandex.tryandex.travel	yandex.ua	yandex.uzyandexadexchange.netyandexcloud.netyandexcom.netyandexdataschool.comyandexgo.comyandexmetrica.com
-adsyandexwebcache.netyandexwebcache.orgyango-ads.com
+yandex.pro	yandex.st	yandex.sxyandex.taxi	yandex.tj	yandex.tm	yandex.tryandex.travel	yandex.ua	yandex.uzyandexadexchange.netyandexcloud.netyandexcom.netyandexdataschool.comyandexgo.com-yandexmetrica.com
+ads
+	telemetryyandexwebcache.netyandexwebcache.orgyango-ads.com
 adsyango-b2b.comyango-team.comyango-tech.comyango.africayango.aoyango.bhyango.co.il	yango.comyango.fiyango.qa
 yango.taxi
 yango.techyangofellowship.comyaplakal.com
@@ -617,11 +634,14 @@ advk.vk.ru
 ads
 an.mail.ru
 ads"analytics-adv.ozon.ru
-ads+analytics-stage.wildberries.ru
-ads(analytics.mobile.yandex.net
-adsanalytics.vk.ru
-ads%analytics.wildberries.ru
-ads#api-eu.carrotquest.app
+ads:analytics-stage.wildberries.ru
+ads
+	telemetry7analytics.mobile.yandex.net
+ads
+	telemetryanalytics.vk.ru
+ads4analytics.wildberries.ru
+ads
+	telemetry#api-eu.carrotquest.app
 ads"api-eu.carrotquest.io
 adsapi-js.mindbox.ru
 ads#api-ru.carrotquest.app
@@ -673,8 +693,9 @@ bs.mail.ru
 cn$dnl-18.geo.kaspersky.com
 cn$dnl-19.geo.kaspersky.com
 cn"edge.geo.kaspersky.com
-cn+error-tracking.megamarket.tech
-ads+google-analytics-suite.ozon.ru
+cn:error-tracking.megamarket.tech
+ads
+	telemetry+google-analytics-suite.ozon.ru
 adsinformer.yandex.ru
 ads$ kp-config-smart-tv.akamaized.net51kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, ksn-cinfo-geo.kaspersky-labs.com
 cn*ksn-cinfo.geoksn.kaspersky.com
@@ -700,17 +721,24 @@ bs.mail.ru
 cn(ksn-url.geoksn.kaspersky.com
 cn."ksn-verdict-geo.kaspersky-labs.com
 cn, ksn-verdict.geoksn.kaspersky.com
-cnlog.strm.yandex.ru
-ads"loyalnost-adv.ozon.ru
+cn.log.strm.yandex.ru
+ads
+	telemetry"loyalnost-adv.ozon.ru
 ads*marketing-info.wildberries.ru
-ads%marketplace-sentry.wb.ru
-adsmc.yandex.com
-adsmc.yandex.net
-adsmc.yango.com
-ads&mdr.ksn.kaspersky-labs.com
-cn!metrics.21-school.ru
-adsmetrika.kontur.ru
-adsmvideo.edna.ionew-adv.ozon.ru
+ads4marketplace-sentry.wb.ru
+ads
+	telemetry)mc.yandex.com
+ads
+	telemetry)mc.yandex.net
+ads
+	telemetry(mc.yango.com
+ads
+	telemetry&mdr.ksn.kaspersky-labs.com
+cn0metrics.21-school.ru
+ads
+	telemetry-metrika.kontur.ru
+ads
+	telemetrymvideo.edna.ionew-adv.ozon.ru
 ads!p00.upd.kaspersky.com
 cn!p01.upd.kaspersky.com
 cn!p02.upd.kaspersky.com
@@ -765,34 +793,56 @@ rs.mail.ru
 cn!s17.upd.kaspersky.com
 cn!s18.upd.kaspersky.com
 cn!s19.upd.kaspersky.com
-cn$sentry-ng.g.smailru.net
-adssentry.dev-my.com
-ads sentry.dev-my.games
-adssentry.iptv.rt.ru
-adssentry.kontur.host
-adssentry.mindbox.ru
-adssentry.ozon.ru
-ads"sentry.popmechanic.ru
-adssentry.rustore.ru
-ads sentry.sberauto.com
-adssentry.viqeo.tv
-adssentry.wb.ru
-adssentry.x5.ru
-ads+srch-telemeter10.g.smailru.net
-ads!stacks.vk-portal.net
-adsstats.avito.ru
-ads$stats.dahlmessenger.com
-ads"stats.dev.telega.info
-adsstats.rustore.ru
-adsstats.telega.info
-ads stats.vk-portal.net
-ads	t.mail.ru
+cn3sentry-ng.g.smailru.net
+ads
+	telemetry-sentry.dev-my.com
+ads
+	telemetry/sentry.dev-my.games
+ads
+	telemetry-sentry.iptv.rt.ru
+ads
+	telemetry.sentry.kontur.host
+ads
+	telemetry-sentry.mindbox.ru
+ads
+	telemetry*sentry.ozon.ru
+ads
+	telemetry1sentry.popmechanic.ru
+ads
+	telemetry-sentry.rustore.ru
+ads
+	telemetry/sentry.sberauto.com
+ads
+	telemetry+sentry.viqeo.tv
+ads
+	telemetry(sentry.wb.ru
+ads
+	telemetry(sentry.x5.ru
+ads
+	telemetry:srch-telemeter10.g.smailru.net
+ads
+	telemetry!stacks.vk-portal.net
+ads*stats.avito.ru
+ads
+	telemetry3stats.dahlmessenger.com
+ads
+	telemetry1stats.dev.telega.info
+ads
+	telemetry,stats.rustore.ru
+ads
+	telemetry-stats.telega.info
+ads
+	telemetry/stats.vk-portal.net
+ads
+	telemetry	t.mail.ru
 adstarget.vk.com
 ads top-staging.mail.ru
-ads)tracing-http.megamarket.tech
-adsvisor.sberbank.ru
-ads)web-analytics.wildberries.ru
-adswhiteline.mail.ru
+ads8tracing-http.megamarket.tech
+ads
+	telemetryvisor.sberbank.ru
+ads8web-analytics.wildberries.ru
+ads
+	telemetrywhiteline.mail.ru
 adsxapi.ozon.by
 adsxapi.ozon.com.by
 adsxapi.ozon.com.kz
@@ -822,7 +872,7 @@ freebs.comfreefacebook.comfreefacebook.netfreefacebookads.net
 groups.comhackerfacebook.comhackfacebook.comhackfacebookid.comhifacebook.info!howtohackfacebook-account.comhsfacebook.comhttpfacebook.comhttpsfacebook.comhttpwwwfacebook.com	i.orginternet.orgklik.meliverail.comliverail.tvlogin-account.netmarkzuckerberg.commidentsolutions.commobilefacebook.commoneywithfacebook.commyfbfans.comnewsfeed.comnextstop.comonline-deals.netopencreate.orgpixel.facebook.com
 adsreachtheworldonfacebook.com
 redkix.comshopfacebook.comsportsfacebook.comsportstream.comsupportfacebook.comterragraph.com	tfbnw.netthefacebook.comthefacebook.netthefind.comtoplayerserver.comviewpointsfromfacebook.comwhyfacebook.comworkplace.comworkplaceusecases.comworldhack.comwww-facebook.comwwwfacebok.comwwwfacebook.comwwwmfacebook.comzuckerberg.comzuckerberg.netfbcdn-a.akamaihd.net
-» 
+Ñ¡
 GOOGLE0emm.com	1e100.net	1ucrs.com265.com
 cn2mdn-cn.net
 ads2mdn.net
@@ -1048,8 +1098,9 @@ c.pki.goog
 cn)clientservices.googleapis.com
 cncn.widevine.com
 cn)connectivitycheck.gstatic.com
-cn0$crashlyticsreports-pa.googleapis.com
-cncrl.pki.goog
+cn?$crashlyticsreports-pa.googleapis.com
+cn
+	telemetrycrl.pki.goog
 cncrls.pki.goog
 cncsi.gstatic.com
 cndartsearch-cn.net
@@ -1060,8 +1111,11 @@ c.pki.goog
 cndoubleclick.net
 cn$download.mlcc.google.com
 cn*download.tensorflow.google.com
-cn-!firebase-settings.crashlytics.com
-cn$fontfiles.googleapis.com
+cn<!firebase-settings.crashlytics.com
+cn
+	telemetry4!firebaselogging-pa.googleapis.com
+	telemetry1firebaselogging.googleapis.com
+	telemetry$fontfiles.googleapis.com
 cn fonts.googleapis.com
 cnfonts.gstatic.com
 cng0.gstatic.com
@@ -1130,8 +1184,9 @@ o.pki.goog
 cn'staging.databe.floonet.goog
 cntac.googleapis.com
 cntools.google.com
-cn"update.crashlytics.com
-cn!update.googleapis.com
+cn1update.crashlytics.com
+cn
+	telemetry!update.googleapis.com
 cnwear.googleapis.com
 cn-!www-google-analytics.l.google.com
 cn-!www-googletagmanager.l.google.com
@@ -1190,16 +1245,19 @@ oculus.comoculus2014.comoculus3d.comoculusblog.comoculus
 redkix.comrocksdb.comrocksdb.netrocksdb.orgshopfacebook.comsportsfacebook.comsportstream.comsupportfacebook.comterragraph.com	tfbnw.netthefacebook.comthefacebook.netthefind.comtheinstagramhack.comthreads.comthreads.nettoplayerserver.comviewpointsfromfacebook.com	wa.meweb-instagram.netwhatsapp-plus.infowhatsapp-plus.mewhatsapp-plus.netwhatsapp.ccwhatsapp.comwhatsapp.infowhatsapp.netwhatsapp.orgwhatsapp.tvwhatsappbrand.comwhyfacebook.comworkplace.comworkplaceusecases.comworldhack.comwww-facebook.comwwwfacebok.comwwwfacebook.comwwwinstagram.comwwwmfacebook.comyogalayout.comzuckerberg.comzuckerberg.netfbcdn-a.akamaihd.net
 ò
 NETFLIXfast.com
-netflix.canetflix.comnetflix.netnetflixdnstest0.comnetflixdnstest1.comnetflixdnstest10.comnetflixdnstest2.comnetflixdnstest3.comnetflixdnstest4.comnetflixdnstest5.comnetflixdnstest6.comnetflixdnstest7.comnetflixdnstest8.comnetflixdnstest9.comnetflixinvestor.comnetflixtechblog.comnflxext.comnflximg.comnflximg.netnflxsearch.net
-nflxso.netnflxvideo.netnetflix.com.edgesuite.net62(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$73(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$1-(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$40(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
-ú
+netflix.canetflix.comnetflix.com.edgesuite.netnetflix.netnetflixdnstest0.comnetflixdnstest1.comnetflixdnstest10.comnetflixdnstest2.comnetflixdnstest3.comnetflixdnstest4.comnetflixdnstest5.comnetflixdnstest6.comnetflixdnstest7.comnetflixdnstest8.comnetflixdnstest9.comnetflixinvestor.comnetflixtechblog.comnflxext.comnflximg.comnflximg.netnflxsearch.net
+nflxso.netnflxvideo.net62(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$73(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$1-(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$40(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
+§
 OPENAIchat.comchatgpt.comchatgpt.livekit.cloudchatgpt.site
 crixet.comhost.livekit.cloudoaistatic.comoaistatsig.comoaiusercontent.com
 openai.com!openai.com.cdn.cloudflare.net
-openai.orgsora.comturn.livekit.cloud)browser-intake-datadoghq.com
-ads$o33249.ingest.sentry.io
-ads'o33249.ingest.us.sentry.io
-ads!openai.qualtrics.com
+openai.orgsora.comturn.livekit.cloud8browser-intake-datadoghq.com
+ads
+	telemetry3o33249.ingest.sentry.io
+ads
+	telemetry6o33249.ingest.us.sentry.io
+ads
+	telemetry!openai.qualtrics.com
 ads openaiapi-site.azureedge.net&"openaiassets.blob.core.windows.net2.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.netopenaicom.imgix.net1-openaicomproductionae4b.blob.core.windows.net.*production-openaicom-storage.azureedge.net=9^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 Ž
 PRIVATELH1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa10.in-addr.arpa100.100.in-addr.arpa100.51.198.in-addr.arpa101.100.in-addr.arpa102.100.in-addr.arpa103.100.in-addr.arpa104.100.in-addr.arpa105.100.in-addr.arpa106.100.in-addr.arpa107.100.in-addr.arpa108.100.in-addr.arpa109.100.in-addr.arpa110.100.in-addr.arpa111.100.in-addr.arpa112.100.in-addr.arpa113.0.203.in-addr.arpa113.100.in-addr.arpa114.100.in-addr.arpa115.100.in-addr.arpa116.100.in-addr.arpa117.100.in-addr.arpa118.100.in-addr.arpa119.100.in-addr.arpa120.100.in-addr.arpa121.100.in-addr.arpa122.100.in-addr.arpa123.100.in-addr.arpa124.100.in-addr.arpa125.100.in-addr.arpa126.100.in-addr.arpa127.100.in-addr.arpa127.in-addr.arpa16.172.in-addr.arpa168.192.in-addr.arpa17.172.in-addr.arpa18.172.in-addr.arpa19.172.in-addr.arpa2.0.192.in-addr.arpa20.172.in-addr.arpa21.172.in-addr.arpa22.172.in-addr.arpa23.172.in-addr.arpa24.172.in-addr.arpa25.172.in-addr.arpa254.169.in-addr.arpa 255.255.255.255.in-addr.arpa26.172.in-addr.arpa27.172.in-addr.arpa28.172.in-addr.arpa29.172.in-addr.arpa30.172.in-addr.arpa31.172.in-addr.arpa64.100.in-addr.arpa65.100.in-addr.arpa66.100.in-addr.arpa67.100.in-addr.arpa68.100.in-addr.arpa69.100.in-addr.arpa70.100.in-addr.arpa71.100.in-addr.arpa72.100.in-addr.arpa73.100.in-addr.arpa74.100.in-addr.arpa75.100.in-addr.arpa76.100.in-addr.arpa77.100.in-addr.arpa78.100.in-addr.arpa79.100.in-addr.arpa8.b.d.0.1.0.0.2.ip6.arpa8.e.f.ip6.arpa80.100.in-addr.arpa81.100.in-addr.arpa82.100.in-addr.arpa83.100.in-addr.arpa84.100.in-addr.arpa85.100.in-addr.arpa86.100.in-addr.arpa87.100.in-addr.arpa88.100.in-addr.arpa89.100.in-addr.arpa9.e.f.ip6.arpa90.100.in-addr.arpa91.100.in-addr.arpa92.100.in-addr.arpa93.100.in-addr.arpa94.100.in-addr.arpa95.100.in-addr.arpa96.100.in-addr.arpa97.100.in-addr.arpa98.100.in-addr.arpa99.100.in-addr.arpaa.e.f.ip6.arpab.e.f.ip6.arpad.f.ip6.arpaexample
@@ -1217,10 +1275,10 @@ reddit.comreddit.map.fastly.netredditblog.comreddithelp.com
 signal.artsignal.groupsignal.link	signal.me
 signal.orgsignal.tubesignalusers.orgwhispersystems.org
 ý
-SPOTIFYbyspotify.comlifeatspotify.compscdn.coscdn.cospoti.fispotify-everywhere.comspotify.comspotify.designspotify.linkspotifycdn.comspotifycdn.netspotifycharts.comspotifycodes.comspotifyforbrands.comspotifyforvendors.comspotifyjobs.comtospotify.com'adeventtracker.spotify.com
+SPOTIFYbyspotify.comlifeatspotify.compscdn.coscdn.cospoti.fispotify-everywhere.comspotify.comspotify.com.edgesuite.netspotify.designspotify.linkspotifycdn.comspotifycdn.netspotifycharts.comspotifycodes.comspotifyforbrands.comspotifyforvendors.comspotifyjobs.comtospotify.com'adeventtracker.spotify.com
 ads$adstudio-assets.scdn.co
 ads&"audio-ak-spotify-com.akamaized.net'#audio4-ak-spotify-com.akamaized.net#bloodhound.spotify.com
-ads+'cdn-spotify-experiments.conductrics.com&"heads-ak-spotify-com.akamaized.net'#heads4-ak-spotify-com.akamaized.netspotify.com.edgesuite.netspotify.map.fastly.netspotify.map.fastlylb.net
+ads+'cdn-spotify-experiments.conductrics.com&"heads-ak-spotify-com.akamaized.net'#heads4-ak-spotify-com.akamaized.netspotify.map.fastly.netspotify.map.fastlylb.net
 ï
 TELEGRAMcdn-telegram.orgcomments.appcontest.comfragment.com	graph.orgquiz.directoryt.metdesktop.com
 telega.one
@@ -1281,7 +1339,7 @@ tiktokw.us
 twitter.jptwitter.map.fastly.nettwittercommunity.comtwitterflightschool.comtwitterinc.comtwitteroauth.comtwitterstat.ustwtrdns.net	twttr.com	twttr.net	twvid.comvine.co	x.com
 k
 VIBERs-bid.rmp.rakuten.com	vbcdn.com	vbcdn.netviber.co	viber.comviber.me
-ž
+­
 VK
 adv.vk.com
 adsanalytics.vk.com
@@ -1303,12 +1361,13 @@ ads.vk.com
 ads
 advk.vk.ru
 adsanalytics.vk.ru
-ads stats.vk-portal.net
-adstarget.vk.com
+ads/stats.vk-portal.net
+ads
+	telemetrytarget.vk.com
 ads
 Ü
 WHATSAPP	wa.mewhatsapp-plus.infowhatsapp-plus.mewhatsapp-plus.netwhatsapp.ccwhatsapp.comwhatsapp.infowhatsapp.netwhatsapp.orgwhatsapp.tvwhatsappbrand.com
-æ
+ô
 YANDEXadfox.ru
 adsadfox.yandex.ru
 adsadmetrica.ru
@@ -1318,32 +1377,45 @@ ads.yandex
 adsadv.yandex.com
 adsadv.yandex.ru
 adsan.yandex.ru
-ads"appmetrica.yandex.com
-ads"appmetrica.yandex.net
-ads!appmetrica.yandex.ru
-ads!appmetrica.yango.com
-adsberizaryad.ruberu.rubookmate.rubs.yandex.ru
+ads1appmetrica.yandex.com
+ads
+	telemetry1appmetrica.yandex.net
+ads
+	telemetry0appmetrica.yandex.ru
+ads
+	telemetry0appmetrica.yango.com
+ads
+	telemetryberizaryad.ruberu.rubookmate.rubs.yandex.ru
 adscabconnect.orgclck.ruclck.yandex.ru
-adsclstorage.netcounter.yandex.ru
-adsdelivery-club.rudriveawaytaxi.org
+adsclstorage.net-counter.yandex.ru
+ads
+	telemetrydelivery-club.rudriveawaytaxi.org
 edadeal.ruelama.ru
-foodfox.rugogettaxi.orggoup.aihayya.aekinopoisk.ru	market.rumc.yandex.ru
-ads	meteum.aimetrika.yandex.com
-adsmetrika.yandex.net
-adsmetrika.yandex.ru
-adsmy-manager-account.com
-naydex.netrealtyverif.rurostaxi.org	rutaxi.rushedevrum.aishedevrum.comshedevrum.rusourcecraft.devstatic-storage.netsupport-uber.comtaxiaid.orgtaxiguru.orgtaxitax.orgthequestion.ruturbopages.orgvezet.ruwebvisor.com
-adswebvisor.org
-adsxn--d1acpjx3f.xn--p1ai	ya.cc	ya.ruyadi.sk	yads.tech
+foodfox.rugogettaxi.orggoup.aihayya.aekinopoisk.ru	market.ru(mc.yandex.ru
+ads
+	telemetry	meteum.ai.metrika.yandex.com
+ads
+	telemetry.metrika.yandex.net
+ads
+	telemetry-metrika.yandex.ru
+ads
+	telemetrymy-manager-account.com
+naydex.netrealtyverif.rurostaxi.org	rutaxi.rushedevrum.aishedevrum.comshedevrum.rusourcecraft.devstatic-storage.netsupport-uber.comtaxiaid.orgtaxiguru.orgtaxitax.orgthequestion.ruturbopages.orgvezet.ru(webvisor.com
+ads
+	telemetry(webvisor.org
+ads
+	telemetryxn--d1acpjx3f.xn--p1ai	ya.cc	ya.ruyadi.sk	yads.tech
 ads
 yandexyandex-ad.cn
-cnyandex-bank.netyandex-metrica.ru
-adsyandex-team.comyandex-team.ruyandex.aeroyandex.asia	yandex.az	yandex.byyandex.cloudyandex.co.il
+cnyandex-bank.net-yandex-metrica.ru
+ads
+	telemetryyandex-team.comyandex-team.ruyandex.aeroyandex.asia	yandex.az	yandex.byyandex.cloudyandex.co.il
 yandex.comyandex.com.amyandex.com.geyandex.com.ruyandex.com.tryandex.com.ua	yandex.de	yandex.ee	yandex.eu	yandex.fi	yandex.fr	yandex.ityandex.jobs	yandex.kg	yandex.kz	yandex.lt	yandex.lvyandex.market	yandex.mdyandex.mobi
 yandex.netyandex.net.ru
 yandex.org	yandex.pl
-yandex.pro	yandex.ru	yandex.st	yandex.sxyandex.taxi	yandex.tj	yandex.tm	yandex.tryandex.travel	yandex.ua	yandex.uzyandexadexchange.netyandexcloud.netyandexcom.netyandexdataschool.comyandexdataschool.ruyandexgo.comyandexlyceum.ruyandexmetrica.com
-adsyandexwebcache.netyandexwebcache.orgyango-ads.com
+yandex.pro	yandex.ru	yandex.st	yandex.sxyandex.taxi	yandex.tj	yandex.tm	yandex.tryandex.travel	yandex.ua	yandex.uzyandexadexchange.netyandexcloud.netyandexcom.netyandexdataschool.comyandexdataschool.ruyandexgo.comyandexlyceum.ru-yandexmetrica.com
+ads
+	telemetryyandexwebcache.netyandexwebcache.orgyango-ads.com
 adsyango-b2b.comyango-team.comyango-tech.comyango.africayango.aoyango.bhyango.co.il	yango.comyango.fiyango.qa
 yango.taxi
 yango.techyangofellowship.com
@@ -1352,16 +1424,21 @@ yastat.netyastatic-net.ruyastatic.netyccdn.ruydb.tech
 adsads.yango.com
 adsadsdk.yandex.ru
 adsamc.yandex.ru
-ads(analytics.mobile.yandex.net
-adsclck.yandex.com
+ads7analytics.mobile.yandex.net
+ads
+	telemetryclck.yandex.com
 adsclck.yandex.net
 adsclck.yango.com
 adsinformer.yandex.ru
-ads$ kp-config-smart-tv.akamaized.net51kp-configs-smart-tv.s3.eu-central-1.amazonaws.comlog.strm.yandex.ru
-adsmc.yandex.com
-adsmc.yandex.net
-adsmc.yango.com
-adspixel.yandex.com
+ads$ kp-config-smart-tv.akamaized.net51kp-configs-smart-tv.s3.eu-central-1.amazonaws.com.log.strm.yandex.ru
+ads
+	telemetry)mc.yandex.com
+ads
+	telemetry)mc.yandex.net
+ads
+	telemetry(mc.yango.com
+ads
+	telemetrypixel.yandex.com
 ads$report.ap.yandex-net.ru
 ads
 ê
